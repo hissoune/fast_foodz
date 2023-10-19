@@ -3700,7 +3700,7 @@ input[type="button"].btn-block {
 
 .dropdown-item.active,
 .dropdown-item:active {
-  color: #fff;
+  color: #fffdfd;
   text-decoration: none;
   background-color: #ff4c4c;
 }
@@ -3721,7 +3721,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
   font-size: 0.875rem;
-  color: #6c757d;
+  color: #53585d;
   white-space: nowrap;
 }
 
@@ -14103,8 +14103,6 @@ button,
 
 .img-responsive {
   max-width: 100%;
-  position: relative;
-  top: 40px;
   display: block;
 }
 
